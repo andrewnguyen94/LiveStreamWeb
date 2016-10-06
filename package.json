@@ -1,0 +1,15 @@
+{
+    "name": "LiveStreamApp",
+    "version": "0.0.1",
+    "main": "server.js",
+    "author" : "andrewnguyen",
+    "name": "LiveStreamApp",
+    "version": "0.0.1",
+    "main": "server.js",     
+    "dependencies" : {
+		"express" : "~4.14.0",       
+        "mongoose" : "~4.1.11",
+        "socket.io" : "*",
+        "log" : "*"      
+    }
+} 
